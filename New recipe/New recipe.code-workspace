@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "New recipe",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New recipe"
+	}
+}
